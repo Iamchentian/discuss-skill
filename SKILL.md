@@ -1,6 +1,6 @@
 ---
 name: discuss
-description: This skill should be used when analyzing complex problems, making decisions, or planning strategies. It recursively decomposes topics via MECE, validates arguments through deep questioning with verdict ratings (solid / needs-work / invalid), and produces SCQA documents with three persistence modes (local / chat / cloud). Triggers on "讨论", "/discuss", or "discuss this".
+description: 结构化议题研讨技能。基于金字塔原理，通过 MECE 递归拆解议题、深度追问验证论据（verdict 裁决）、最终汇总 SCQA 文档与落地规划。支持本地/对话/云文档三种持久化模式。This skill should be used when analyzing complex problems, making decisions, or planning strategies. It recursively decomposes topics via MECE, validates arguments through deep questioning with verdict ratings (solid / needs-work / invalid), and produces SCQA documents with three persistence modes (local / chat / cloud). Triggers on "讨论", "/discuss", or "discuss this".
 agent_created: true
 ---
 
