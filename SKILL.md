@@ -132,7 +132,7 @@ docs/discuss/YYYY-MM-DD-[主题]/
 
 **禁止跳过 verdict 直接下结论。** 即使是显然成立的议题，也要明确标注 `solid` 并附 1 句理由。
 
-详细示例（含 needs-work / invalid 的完整对话）见 `references/verdict-examples.md`。
+详细示例（完整讨论流程 + 三模式持久化差异 + verdict 三种裁决）见 `references/examples.md`。
 
 ## Error Handling
 
@@ -182,9 +182,6 @@ docs/discuss/YYYY-MM-DD-[主题]/
 |------|------|------|
 | `assets/notes-template.md` | 模板 | 讨论过程记录文件模板 |
 | `assets/summary-template.md` | 模板 | SCQA 汇总文档模板（含落地规划、风险） |
-| `references/local-mode-example.md` | 参考 | 本地模式完整对话示例 |
-| `references/cloud-mode-example.md` | 参考 | 飞书云端模式完整对话示例 |
-| `references/chat-mode-example.md` | 参考 | 纯对话模式完整对话示例 |
-| `references/verdict-examples.md` | 参考 | verdict 三种裁决的完整示例（solid / needs-work / invalid） |
+| `references/examples.md` | 参考 | 完整讨论流程 + 三模式持久化差异 + verdict 三种裁决示例 |
 
 生成 notes / summary 时，以 `assets/` 下模板为准。SCQA 文档结构必须与 `assets/summary-template.md` 一致（含背景、冲突、问题、解决方案、议题分析汇总、落地规划、风险与应对）。
